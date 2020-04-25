@@ -1,6 +1,7 @@
 # Calculator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0-rc.0.
+It's a simply project of calculator. You can find tutorial step by step on my blog 
 
 ## Development server
 
